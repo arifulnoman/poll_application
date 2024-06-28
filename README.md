@@ -43,11 +43,11 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Snapshots
 
-### Home Page
-![Home Page](path/to/your/home-page-screenshot.png)
-
 ### Create Poll Page
-![Create Poll Page](path/to/your/create-poll-page-screenshot.png)
+![Create Poll Page](https://github.com/arifulnoman/poll_application/blob/main/snap_shots/create.JPG)
+
+### All Polls
+![All Polls](https://github.com/arifulnoman/poll_application/blob/main/snap_shots/polls.JPG)
 
 ### Poll Results Page
-![Poll Results Page](path/to/your/poll-results-page-screenshot.png)
+![Poll Results Page](https://github.com/arifulnoman/poll_application/blob/main/snap_shots/poll_result.JPG)
