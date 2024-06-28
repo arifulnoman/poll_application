@@ -40,3 +40,14 @@ Before you begin, ensure you have the following installed on your system:
 - `GET /polls/:id`: View a specific poll and its options.
 - `POST /polls/:id`: Submit a vote for a specific poll.
 - `GET /polls`: List all polls.
+
+## Snapshots
+
+### Home Page
+![Home Page](path/to/your/home-page-screenshot.png)
+
+### Create Poll Page
+![Create Poll Page](path/to/your/create-poll-page-screenshot.png)
+
+### Poll Results Page
+![Poll Results Page](path/to/your/poll-results-page-screenshot.png)
